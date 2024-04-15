@@ -6,7 +6,7 @@ My fields of interest are Data Science and Artificial Intelligence, in particula
 
 <div align="left">
 <h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=D0men1c0&column=8&theme=onedark&no-frame=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=D0men1c0&column=8&theme=nord&no-frame=true"/>
 </div>
 
 ###
@@ -21,6 +21,7 @@ My fields of interest are Data Science and Artificial Intelligence, in particula
 
 ###
 
+###
 
 <div align="left">
     <h2 align="left">🔨 Languages and Tools</h2>
