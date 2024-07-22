@@ -1,5 +1,5 @@
 <h2 align="left">👋 Hi! My name is Domenico and I'm a Data Scientist, from Bari &nbsp;&nbsp;<a href="mailto:domenicolacavalla8@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" width="60" alt="gmail logo"/>
-  <a href="https://www.linkedin.com/in/domenico-lacavalla/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" width="80"  alt="linkedin logo" /> <img src="https://komarev.com/ghpvc/?username=D0men1c0&label=Profile%20views&color=0e75b6&style=flat" alt="D0men1c0" /> </a></h2>
+  <a href="https://www.linkedin.com/in/domenico-lacavalla/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" width="80"  alt="linkedin logo" /> </a></h2>
 I am a 23 years old guy with a degree in Computer Science from the University of Bari "Aldo Moro" and a Master's student in Data Science at the same university.
 
 My fields of interest are Data Science and Artificial Intelligence, in particular data analysis and the use of Machine Learning and Deep Learning oriented technologies to process text and images.
