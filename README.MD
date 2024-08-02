@@ -8,7 +8,6 @@
 🔬 In my open-source projects, I explore both textual data analysis and computer vision, including tasks like segmentation and object detection.<br>
 
 🎯 My goal is to deepen my expertise and pursue a research career in Data Science and AI.
-<br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <span style="margin-right: 5px;"><b>Count Visitors:</b></span>
   <img src="https://profile-counter.glitch.me/D0men1c0/count.svg"/>
