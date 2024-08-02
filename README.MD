@@ -6,11 +6,11 @@
 <img src="https://profile-counter.glitch.me/D0men1c0/count.svg"/>
 </p>
 </h2>
-👨‍🎓 I’m a 23-year-old Computer Science graduate from the University of Bari "Aldo Moro", currently pursuing a Master’s degree in Data Science.<br>
+👨‍🎓 I’m a 23-year-old Computer Science graduate from the University of Bari "Aldo Moro", currently pursuing a Master’s degree in Data Science.<br><br>
 
-💼 At IBM, I specialize in textual analysis using transformer architectures and generative AI to derive actionable insights from text data.<br>
+💼 At IBM, I specialize in textual analysis using transformer architectures and generative AI to derive actionable insights from text data.<br><br>
 
-🔬 In my open-source projects, I explore both textual data analysis and computer vision, including tasks like segmentation and object detection.<br>
+🔬 In my open-source projects, I explore both textual data analysis and computer vision, including tasks like segmentation and object detection.<br><br>
 
 🎯 My goal is to deepen my expertise and pursue a research career in Data Science and AI.
 
