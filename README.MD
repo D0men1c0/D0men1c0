@@ -10,7 +10,7 @@
 
 💼 At IBM, I specialize in textual analysis using transformer architectures and generative AI to derive actionable insights from text data.<br>
 
-🔬 In my open-source projects, I explore both textual data analysis and computer vision, including tasks like segmentation and object detection.<br><br>
+🔬 In my open-source projects, I explore both textual data analysis and computer vision, including tasks like segmentation and object detection.<br>
 
 🎯 My goal is to deepen my expertise and pursue a research career in Data Science and AI.
 
