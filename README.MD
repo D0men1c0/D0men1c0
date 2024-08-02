@@ -12,7 +12,7 @@
 
 🔬 In my open-source projects, I explore both textual data analysis and computer vision, including tasks like segmentation and object detection.<br>
 
-🎯 My goal is to deepen my expertise and pursue a research career in Data Science and AI.
+🎯 My goal is to deepen my expertise and pursue a research career in Data Science and AI.<br>
 
 <div align="left">
     <h2 align="left">🔨 Languages and Tools</h2>
