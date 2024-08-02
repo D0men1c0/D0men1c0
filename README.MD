@@ -9,10 +9,10 @@
 
 🎯 My goal is to deepen my expertise and pursue a research career in Data Science and AI.
 <br>
-<p align="center">
-<b>Count Visitors: </b>
-<img src="https://profile-counter.glitch.me/D0men1c0/count.svg"/>
-</p>
+<div align="center">
+  <b>Count Visitors:</b> 
+  <img src="https://profile-counter.glitch.me/D0men1c0/count.svg"/>
+</div>
 
 <div align="left">
     <h2 align="left">🔨 Languages and Tools</h2>
