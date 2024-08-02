@@ -10,8 +10,7 @@
 🎯 My goal is to deepen my expertise and pursue a research career in Data Science and AI.
 
 <p align="center">
-<br>
-<b>Count Visitors</b><br>
+<b>Count Visitors</b>
 <img src="https://profile-counter.glitch.me/D0men1c0/count.svg"/>
 </p>
 
