@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hi! My name is Domenico and I'm a Data Scientist, from Bari &nbsp;&nbsp;<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" width="60" alt="gmail logo"/>
   <a href="https://www.linkedin.com/in/domenico-lacavalla/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" width="80"  alt="linkedin logo" /> </a></h2>
 
-👨‍🎓 I’m a 23-year-old Computer Science graduate from the University of Bari "Aldo Moro", currently pursuing a Master’s degree in Data Science.<br><br>
+👨‍🎓 I’m a 23-year-old Computer Science graduate from the University of Bari "Aldo Moro", currently pursuing a Master’s degree in Data Science.<br>
 
 💼 At IBM, I specialize in textual analysis using transformer architectures and generative AI to derive actionable insights from text data.<br>
 
