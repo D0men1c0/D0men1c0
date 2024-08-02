@@ -10,8 +10,8 @@
 🎯 My goal is to deepen my expertise and pursue a research career in Data Science and AI.
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <b>Count Visitors:</b>
-  <img src="https://profile-counter.glitch.me/D0men1c0/count.svg" style="margin-left: 5px;"/>
+  <span style="margin-right: 5px;"><b>Count Visitors:</b></span>
+  <img src="https://profile-counter.glitch.me/D0men1c0/count.svg"/>
 </div>
 
 <div align="left">
