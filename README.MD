@@ -14,11 +14,11 @@
 
 ## About
 
-I work at the intersection of research and production AI, with a focus on systems that are both effective and measurable.
+I work at the intersection of research and production AI, building systems that are both effective and measurable.
 
-My current interests include LLM evaluation, Retrieval-Augmented Generation, model interpretability, and multimodal pipelines. I am particularly interested in building AI systems that are not only useful, but also understandable and robust.
+My focus is on LLM evaluation, Retrieval-Augmented Generation, model interpretability, and multimodal pipelines — with a particular interest in making AI systems understandable, not just functional.
 
-Currently at **Leonardo Labs** as an **AI Researcher & AI Applied Scientist**. Previously at **IBM** and **Google Summer of Code 2024 (HumanAI)**.
+Currently at **Leonardo Labs** as an **AI Researcher & Applied Scientist**. Previously at **IBM** and **Google Summer of Code 2024 (HumanAI)**.
 
 ---
 
@@ -50,9 +50,10 @@ Open-source NLP research on large-scale Dark Web analysis, including topic extra
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D0men1c0&show_icons=true&hide_border=true&theme=github_dark&count_private=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D0men1c0&theme=github_dark" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D0men1c0&theme=github-compact&hide_border=true&area=true" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=D0men1c0&theme=github_dark" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=D0men1c0&theme=github-dark-blue&hide_border=true" width="47%" />
 </p>
